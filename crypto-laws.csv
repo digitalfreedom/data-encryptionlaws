@@ -2,11 +2,11 @@ Countries (SIDA),Restrictions on the Import of cryptography,Laws prohibiting the
 BFA,N/A,N/A,N/A,N/A
 COD,N/A,N/A,N/A,N/A
 ETH,N/A,N/A,N/A,N/A
-KEN,No import controls,N/A,N/A,N/A
+KEN,No ,N/A,N/A,N/A
 LBR,N/A,N/A,N/A,N/A
 MLI,N/A,N/A,N/A,N/A
 MOZ,N/A,N/A,N/A,N/A
-RWA,N/A,NO,NO,N/A
+RWA,N/A,No,No,N/A
 SOM,N/A,N/A,N/A,N/A
 SSD,N/A,N/A,N/A,N/A
 SDN,N/A,N/A,N/A,N/A
@@ -18,10 +18,10 @@ EGY,License required for importation,"Egyptian Telecommunication Regulation Law,
 TUN,License required/ total ban,Order No. 2001-2727 ,License required for all users of encryption,YES
 LBY,N/A,N/A,N/A,N/A
 YEM,N/A,N/A,N/A,N/A
-SYR,N/A,NO,NO,N/A
+SYR,N/A,No,No,N/A
 AFG,N/A,N/A,N/A,N/A
 BGD,N/A,N/A,N/A,N/A
-KHM,No import controls,N/A,N/A,N/A
+KHM,No ,N/A,N/A,N/A
 IRQ,Total ban,YES,N/A,N/A
 MMR,Total ban,YES,N/A,N/A
 PSE,N/A,N/A,N/A,N/A
@@ -33,8 +33,8 @@ XKX,N/A,N/A,N/A,N/A
 MDA,License required for importation ,N/A,License likely required from the Ministry of National Security,N/A
 RUS,Total ban,YES,License required for all users and it's issued by the Federal Security Service,N/A
 SRB,N/A,N/A,N/A,N/A
-TUR,No import controls,NO,NO,N/A
+TUR,No ,No,No,N/A
 UKR,License required for importation,N/A,License required for all users and it's issued by the Department of Special Telecommunication Systems,N/A
 BOL,N/A,N/A,N/A,N/A
-COL,No import controls,NO,NO,N/A
+COL,No ,No,No,N/A
 GTM,N/A,N/A,N/A,N/A
