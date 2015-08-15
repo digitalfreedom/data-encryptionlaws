@@ -1,0 +1,47 @@
+{
+  "name": "data-encryptionlaws",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "crypto-laws",
+      "path": "crypto-laws.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 1686,
+      "schema": {
+        "fields": [
+          {
+            "name": "Countries (SIDA)",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Restrictions on the Import of cryptography",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Laws prohibiting the use of encryption",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "License required for the use of encryption",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Requirement to provide decryption keys",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "description": "",
+  "repository": "git://github.com/digitalfreedom/data-encryptionlaws.git"
+}
