@@ -1,47 +1,46 @@
 {
   "name": "data-encryptionlaws",
-  "title": "",
+  "title": "Encryption Laws",
   "homepage": "",
   "version": "0.1.0",
   "license": "PDDL-1.0",
   "resources": [
     {
-      "name": "crypto-laws",
-      "path": "crypto-laws.csv",
+      "name": "cryptolaws",
+      "path": "cryptolaws.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 1686,
       "schema": {
         "fields": [
           {
-            "name": "Countries (SIDA)",
+            "name": "country",
             "type": "string",
-            "description": ""
+            "description": "Country"
           },
           {
-            "name": "Restrictions on the Import of cryptography",
-            "type": "string",
-            "description": ""
+            "name": "import",
+            "type": "number",
+            "description": "Restrictions on the import of cryptography"
           },
           {
-            "name": "Laws prohibiting the use of encryption",
-            "type": "string",
-            "description": ""
+            "name": "prohibit_use",
+            "type": "number",
+            "description": "Laws prohibiting the use of encryption"
           },
           {
-            "name": "License required for the use of encryption",
-            "type": "string",
-            "description": ""
+            "name": "license_use",
+            "type": "number",
+            "description": "License required for the use of encryption"
           },
           {
-            "name": "Requirement to provide decryption keys",
-            "type": "string",
-            "description": ""
+            "name": "provide_keys",
+            "type": "number",
+            "description": "Requirement to provide decryption laws"
           }
         ]
       }
     }
   ],
   "description": "",
-  "repository": "git://github.com/digitalfreedom/data-encryptionlaws.git"
+  "repository": "https://github.com/digitalfreedom/data-encryptionlaws.git"
 }
