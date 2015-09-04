@@ -18,7 +18,7 @@
             "description": "Country"
           },
           {
-            "name": "import",
+            "name": "import_restrictions",
             "type": "number",
             "description": "Restrictions on the import of cryptography"
           },
